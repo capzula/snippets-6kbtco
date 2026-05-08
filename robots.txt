@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://capzula.github.io/snippets-6kbtco/sitemap.xml
